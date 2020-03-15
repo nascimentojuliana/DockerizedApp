@@ -1,0 +1,22 @@
+{
+  "name": "dockerizedapp",
+  "version": "1.0.0",
+  "description": "Node JS App Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nascimentojuliana/DockerizedApp.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Codenation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nascimentojuliana/DockerizedApp/issues"
+  },
+  "homepage": "https://github.com/nascimentojuliana/DockerizedApp#readme"
+}
